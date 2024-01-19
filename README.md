@@ -1,0 +1,3 @@
+The Python-based program for plant cultivation requirements was developed with a focus on modularity, ease of use, and precision. The program leverages the pandas and numpy libraries for data handling and manipulation, while the tqdm library enhances the user experience by providing a progress bar during data processing.
+
+The foundation of the program lies in a meticulously constructed data-set containing essential information about various plant species. This data-set encompasses optimal temperature ranges, base water requirements, base nutritional requirements, nutritional adjustment factors, pH requirements, soil texture etc.
